@@ -1,0 +1,78 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / Packaging
+.Python
+build/
+dist/
+downloads/
+.eggs/
+*.egg-info/
+*.egg
+MANIFEST
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test
+.coverage
+.coverage.*
+.pytest_cache/
+.tox/
+.nox/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# SQLite Database
+*.db
+*.sqlite3
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+
+# Temporary Files
+*.tmp
+*.swp
+
+# mypy
+.mypy_cache/
+
+# Ruff
+.ruff_cache/
+
+# Pyright
+.pyright/
+
+# pytest
+.cache/
+
+# Generated files
+*.bak
+
+# macOS
+.AppleDouble
+.LSOverride
